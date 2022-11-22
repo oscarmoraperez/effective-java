@@ -1,6 +1,6 @@
-# Java Mentoring Program: Effective Java
+# Effective Java
 
-This maven-based project contains the exercises defined in the 'effective-java' module of Java Mentoring program.
+This maven-based project with multiple exercises about java data structures and multithreading 
 
 0) To run the project one have the following options:
 
